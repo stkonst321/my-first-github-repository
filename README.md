@@ -1,4 +1,4 @@
 # my-first-github-repository
 Some repository for training in Github
 
-README.md file was modified locally
+This line was modified manually during conflicts resolution
